@@ -1,0 +1,5 @@
+RENCANA MEMBUAT WEB BERITA
+
+-HTML CSS
+-membuat berita terkini
+berita tentang politik,game,olahraga dll.
